@@ -33,4 +33,4 @@ To access the case study, simply download or open the PDF file located in the re
 As this repository only contains a single PDF file, there is no scope for external contributions.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the `MIT License`. See the LICENSE file for more information.
